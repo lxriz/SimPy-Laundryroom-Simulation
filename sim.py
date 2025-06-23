@@ -3,9 +3,6 @@ import numpy as np                       # NumPy für Zufallszahlen und numerisc
 import matplotlib.pyplot as plt          # Matplotlib zur Visualisierung der Ergebnisse
 from multiprocessing import Pool, cpu_count  # Für parallele Ausführung mehrerer Simulationen
 
-'''
-    Autor: Loris Leopold Kulke, S87072
-'''
 
 class Simulation:
     # Konstante Anzahl an Studenten, die Waschgelegenheiten benötigen
